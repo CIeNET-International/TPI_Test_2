@@ -1,5 +1,5 @@
-# TPI_Test_1
-This is TPI Test Repo #1
+# TPI_Test_2
+This is TPI Test Repo #2
 
 ## Analysis of Student Scores
 This script analyzes student performance across different subjects, providing a summary of scores and a visual representation of the data.
